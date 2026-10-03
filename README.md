@@ -43,7 +43,8 @@
 ![Time Conversion](screenshots/time-conversion.png)
 
 ### Compare the Triplets
-![Compare the Triplets](screenshots/compare-triplets.png)
+![Compare the Triplets](<img width="1917" height="920" alt="Compare the Triplets" src="https://github.com/user-attachments/assets/27c32832-3cc3-4f35-b375-680a6dc35fc1" />
+
 
 ### Sparse Arrays
 ![Sparse Arrays](screenshots/sparse-arrays.png)
