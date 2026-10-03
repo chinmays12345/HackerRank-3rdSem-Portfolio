@@ -31,7 +31,22 @@
 
 ## HackerRank Submission Screenshots
 
-Screenshots of accepted submissions will be added here.
+## HackerRank Submission Screenshots
+
+### Diagonal Difference
+![Diagonal Difference](screenshots/diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](screenshots/dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](screenshots/time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](screenshots/compare-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](screenshots/sparse-arrays.png)
 
 ## Learning Outcomes
 
